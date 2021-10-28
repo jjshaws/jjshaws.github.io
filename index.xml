@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JamesShaw.info</title>
+    <link>http://jjshaws.github.io/</link>
+    <description>Recent content on JamesShaw.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://jjshaws.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>http://jjshaws.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jjshaws.github.io/</guid>
+      <description>Here you can see the shape of the site. As it grows, I hope to keep this section updated to help make it easier to find what you&amp;rsquo;re looking for.
+ Books and Notes Materials Engineering  </description>
+    </item>
+    
+  </channel>
+</rss>
