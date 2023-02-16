@@ -3,13 +3,15 @@ title: "Photography"
 ---
 I like to carry my camera with me for the moments when I witness something amazing. Some things I think you may find amazing as well. I've included them below, in reverse chronological order.
 
-I'll leave out the context for now. If a photo speaks you then I'd be happy to share more about it with you.
+I'll leave out the context for now. If a photo speaks you then I'd be happy to share more about it with you.\newlin
 
+### 2023
+ [People](/photography/people)\
+ [Architecture](/photography/architecture)
 
 
 ### 2022
 ![P1010290](/images/photography/2022/P1010290.JPG)
-
 ![P1010552](/images/photography/2022/P1010552.JPG)
 ![P1010558](/images/photography/2022/P1010558.JPG)
 ![P1010609](/images/photography/2022/P1010609.JPG)
