@@ -5,14 +5,10 @@ I like to carry my camera with me for the moments when I witness something amazi
 
 I'll leave out the context for now. If a photo speaks you then I'd be happy to share more about it with you.
 
-### Testing Render Speed
-{{< figure src="https://lh3.googleusercontent.com/nOUheT0mFX_4qxe-aLLU804oqv0-JlZm1ckZS_M0w5vyyqkRKlBm9EYWk54O3hPYRlo=w2400" >}}
 
 
 ### 2022
 ![P1010290](/images/photography/2022/P1010290.JPG)
-
-{{< figure src="https://lh5.googleusercontent.com/6mZBgldmMCB2w7YEP31gWGEIjUxKf51I1VU2RJPsEa7cPGC1SwIrUp60ApxawoiJf5k=w2400" >}}
 
 ![P1010552](/images/photography/2022/P1010552.JPG)
 ![P1010558](/images/photography/2022/P1010558.JPG)
