@@ -1,1 +1,0 @@
-Here are a selection of essays from the past few years

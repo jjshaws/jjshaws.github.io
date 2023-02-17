@@ -1,6 +1,0 @@
-baseURL: http://jjshaws.github.io/
-languageCode: en-us
-title: JamesShaw.info
-theme: ["PaperMod", "hugo-shortcode-gallery"]
-disableFastRender: true
-googleAnalytics: "G-F3ZFR9P9GD"
