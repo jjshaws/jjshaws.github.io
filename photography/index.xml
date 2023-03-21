@@ -16,12 +16,30 @@
     </item>
     
     <item>
+      <title>Favorites By Year</title>
+      <link>https://jjshaws.github.io/photography/faves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjshaws.github.io/photography/faves/</guid>
+      <description>A loose series of images from 2019 to 2022</description>
+    </item>
+    
+    <item>
+      <title>Old Dhaka Street Food Vendors</title>
+      <link>https://jjshaws.github.io/photography/streetfood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjshaws.github.io/photography/streetfood/</guid>
+      <description>The Old Dhaka District of is known for its late night street food. Some local favorites include lamb skewers, claypot chai (Motka) and flaming paan leaves (fire paan). Street food vendors have the tough job of getting attention while competing with honking cars, rickshaws and other salespeople. </description>
+    </item>
+    
+    <item>
       <title>Surma River Workers</title>
       <link>https://jjshaws.github.io/photography/surmariverlabourers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jjshaws.github.io/photography/surmariverlabourers/</guid>
-      <description>On a trip to Sylhet in Bangladesh, I spent an afternoon touring the Surma river in a Sampan-style boat. Along the river, there were teams of labourers using buckets and shovels to transfer sand from the riverbed into boats, then down the riverbank into piles. According to our driver, these labourers are paid about 80 Taka (~1 CAD) per cubic foot of sand delivered to the riverbank.</description>
+      <description>On a trip to Sylhet in Bangladesh, I spent an afternoon touring the Surma river in a Sampan-style boat. Along the river, there were teams of labourers using buckets and shovels to transfer sand from the riverbed into boats, then down the riverbank into piles. According to our driver, these labourers are paid about 80 Taka (~1 CAD) per cubic foot of sand delivered to the riverbank. </description>
     </item>
     
     <item>
@@ -41,7 +59,7 @@ Istanbul happens to lie European-Asian continental border.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jjshaws.github.io/photography/winterwater/</guid>
-      <description>Taken during the Winter of 2018 these pictures give a sense of Winter near the Great Lakes in Ontario. Plants and wildlife are quiet while water flows, falls and freezes.</description>
+      <description>Taken during the Winter of 2018 these pictures give a sense of Winter near the Great Lakes in Ontario. Plants and wildlife are quiet while water flows, falls and freezes. </description>
     </item>
     
   </channel>

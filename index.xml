@@ -37,10 +37,10 @@ Hip Hop made an early impression on Mathers, he found an outlet in writing raps 
     
     <item>
       <title>3D Printing Support Optimization</title>
-      <link>https://jjshaws.github.io/materials/manufacturing-optimization/</link>
+      <link>https://jjshaws.github.io/posts/materials/manufacturing-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jjshaws.github.io/materials/manufacturing-optimization/</guid>
+      <guid>https://jjshaws.github.io/posts/materials/manufacturing-optimization/</guid>
       <description>I worked with NewPro3D, a Vancouver based 3D printing company to help them better understand the importance of support structure placement in their printing process. Starting from first principles, my team developed models for failure as a function of printing parameters such as print speed, layer thickness. Our model allowed the company to determine the optimal distance between support structures, ultimately decreasing the print time, print cost and time spent removing supports after curing.</description>
     </item>
     
@@ -55,11 +55,29 @@ Hip Hop made an early impression on Mathers, he found an outlet in writing raps 
     
     <item>
       <title>Bone Scaffold Strength Testing</title>
-      <link>https://jjshaws.github.io/materials/bone-scaffolds/</link>
+      <link>https://jjshaws.github.io/posts/materials/bone-scaffolds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jjshaws.github.io/materials/bone-scaffolds/</guid>
+      <guid>https://jjshaws.github.io/posts/materials/bone-scaffolds/</guid>
       <description>Bone disorder prevalence is increasing, largely due to an aging global population. Consequently, researchers are looking to novel methods for the treatment and replacement of atrophied bone. In this project, I tested the mechanical strength of a variety of 3D printed bone scaffold structures. They were designed such that so called &amp;ldquo;bone resorption&amp;rdquo;, or a prosthetic&amp;rsquo;s ability to be reintegrated into the body would occur. I compared comventional bone scaffold designs (truss and TPMS) with topologically optimized designs.</description>
+    </item>
+    
+    <item>
+      <title>Favorites By Year</title>
+      <link>https://jjshaws.github.io/photography/faves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjshaws.github.io/photography/faves/</guid>
+      <description>A loose series of images from 2019 to 2022</description>
+    </item>
+    
+    <item>
+      <title>Old Dhaka Street Food Vendors</title>
+      <link>https://jjshaws.github.io/photography/streetfood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjshaws.github.io/photography/streetfood/</guid>
+      <description>The Old Dhaka District of is known for its late night street food. Some local favorites include lamb skewers, claypot chai (Motka) and flaming paan leaves (fire paan). Street food vendors have the tough job of getting attention while competing with honking cars, rickshaws and other salespeople. </description>
     </item>
     
     
@@ -69,7 +87,7 @@ Hip Hop made an early impression on Mathers, he found an outlet in writing raps 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jjshaws.github.io/photography/surmariverlabourers/</guid>
-      <description>On a trip to Sylhet in Bangladesh, I spent an afternoon touring the Surma river in a Sampan-style boat. Along the river, there were teams of labourers using buckets and shovels to transfer sand from the riverbed into boats, then down the riverbank into piles. According to our driver, these labourers are paid about 80 Taka (~1 CAD) per cubic foot of sand delivered to the riverbank.</description>
+      <description>On a trip to Sylhet in Bangladesh, I spent an afternoon touring the Surma river in a Sampan-style boat. Along the river, there were teams of labourers using buckets and shovels to transfer sand from the riverbed into boats, then down the riverbank into piles. According to our driver, these labourers are paid about 80 Taka (~1 CAD) per cubic foot of sand delivered to the riverbank. </description>
     </item>
     
     <item>
@@ -89,7 +107,7 @@ Istanbul happens to lie European-Asian continental border.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jjshaws.github.io/photography/winterwater/</guid>
-      <description>Taken during the Winter of 2018 these pictures give a sense of Winter near the Great Lakes in Ontario. Plants and wildlife are quiet while water flows, falls and freezes.</description>
+      <description>Taken during the Winter of 2018 these pictures give a sense of Winter near the Great Lakes in Ontario. Plants and wildlife are quiet while water flows, falls and freezes. </description>
     </item>
     
   </channel>
