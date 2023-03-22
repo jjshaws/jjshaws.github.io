@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jjshaws.github.io/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photography/streetfood/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photography/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photography/macaques/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photography/surmariverlabourers/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photography/istanbulfishermen/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/categories/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/tags/photography/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/categories/photography/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/tags/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photography/winterwater/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jjshaws.github.io/posts/</loc>
     <lastmod>2021-12-10T13:23:42-08:00</lastmod>
     <priority>0</priority>
@@ -9,41 +42,23 @@
     <loc>https://jjshaws.github.io/posts/eminem/</loc>
     <lastmod>2021-12-10T13:23:42-08:00</lastmod>
   </url><url>
-    <loc>https://jjshaws.github.io/</loc>
-    <lastmod>2021-12-10T13:23:42-08:00</lastmod>
-  </url><url>
     <loc>https://jjshaws.github.io/posts/isrockdead/</loc>
     <lastmod>2021-10-13T12:54:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photography/misc/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjshaws.github.io/posts/trf/</loc>
     <lastmod>2020-12-05T12:34:05-08:00</lastmod>
   </url><url>
     <loc>https://jjshaws.github.io/posts/materials/manufacturing-optimization/</loc>
   </url><url>
-    <loc>https://jjshaws.github.io/photography/macaques/</loc>
-  </url><url>
     <loc>https://jjshaws.github.io/posts/materials/bone-scaffolds/</loc>
   </url><url>
     <loc>https://jjshaws.github.io/books/</loc>
   </url><url>
-    <loc>https://jjshaws.github.io/categories/</loc>
-  </url><url>
     <loc>https://jjshaws.github.io/posts/materials/</loc>
   </url><url>
-    <loc>https://jjshaws.github.io/photography/misc/</loc>
-  </url><url>
-    <loc>https://jjshaws.github.io/photography/streetfood/</loc>
-  </url><url>
-    <loc>https://jjshaws.github.io/photography/</loc>
-  </url><url>
     <loc>https://jjshaws.github.io/search/</loc>
-  </url><url>
-    <loc>https://jjshaws.github.io/photography/surmariverlabourers/</loc>
-  </url><url>
-    <loc>https://jjshaws.github.io/tags/</loc>
-  </url><url>
-    <loc>https://jjshaws.github.io/photography/istanbulfishermen/</loc>
-  </url><url>
-    <loc>https://jjshaws.github.io/photography/winterwater/</loc>
   </url>
 </urlset>
