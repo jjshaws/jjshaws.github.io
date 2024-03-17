@@ -6,8 +6,15 @@
     <description>Recent content in Index on JamesShaw.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jjshaws.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Volunteer Park</title>
+      <link>https://jjshaws.github.io/photography/vp/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://jjshaws.github.io/photography/vp/</guid>
+      <description>These pictures were taken in and around Volunteer Park, in Seattle Washington. This park opened in 1901 and was designed by the Olmstead brothers, who believed that the park would be a serene place for nearby residents to enjoy. The surrounding neighbourhood used to be called &amp;ldquo;Millionaire&amp;rsquo;s Row&amp;rdquo; due to the opulent mansions and estates nearby. </description>
+    </item>
     <item>
       <title>Purple-striped Jelly</title>
       <link>https://jjshaws.github.io/photography/monterey/</link>
@@ -82,16 +89,16 @@ Istanbul happens to lie European-Asian continental border.</description>
     </item>
     <item>
       <title>3D Printing Support Optimization</title>
-      <link>https://jjshaws.github.io/posts/materials/manufacturing-optimization/</link>
+      <link>https://jjshaws.github.io/posts/manufacturing-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jjshaws.github.io/posts/materials/manufacturing-optimization/</guid>
+      <guid>https://jjshaws.github.io/posts/manufacturing-optimization/</guid>
       <description>I worked with NewPro3D, a Vancouver based 3D printing company to help them better understand the importance of support structure placement in their printing process. Starting from first principles, my team developed models for failure as a function of printing parameters such as print speed, layer thickness. Our model allowed the company to determine the optimal distance between support structures, ultimately decreasing the print time, print cost and time spent removing supports after curing.</description>
     </item>
     <item>
       <title>Bone Scaffold Strength Testing</title>
-      <link>https://jjshaws.github.io/posts/materials/bone-scaffolds/</link>
+      <link>https://jjshaws.github.io/posts/bone-scaffolds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jjshaws.github.io/posts/materials/bone-scaffolds/</guid>
+      <guid>https://jjshaws.github.io/posts/bone-scaffolds/</guid>
       <description>Bone disorder prevalence is increasing, largely due to an aging global population. Consequently, researchers are looking to novel methods for the treatment and replacement of atrophied bone. In this project, I tested the mechanical strength of a variety of 3D printed bone scaffold structures. They were designed such that so called &amp;ldquo;bone resorption&amp;rdquo;, or a prosthetic&amp;rsquo;s ability to be reintegrated into the body would occur. I compared comventional bone scaffold designs (truss and TPMS) with topologically optimized designs.</description>
     </item>
   </channel>

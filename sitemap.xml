@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jjshaws.github.io/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjshaws.github.io/photography/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photography/vp/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjshaws.github.io/photography/monterey/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
@@ -52,13 +55,11 @@
   </url><url>
     <loc>https://jjshaws.github.io/posts/</loc>
   </url><url>
-    <loc>https://jjshaws.github.io/posts/materials/manufacturing-optimization/</loc>
+    <loc>https://jjshaws.github.io/posts/manufacturing-optimization/</loc>
   </url><url>
-    <loc>https://jjshaws.github.io/posts/materials/bone-scaffolds/</loc>
+    <loc>https://jjshaws.github.io/posts/bone-scaffolds/</loc>
   </url><url>
     <loc>https://jjshaws.github.io/books/</loc>
-  </url><url>
-    <loc>https://jjshaws.github.io/posts/materials/</loc>
   </url><url>
     <loc>https://jjshaws.github.io/search/</loc>
   </url>
