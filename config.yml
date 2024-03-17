@@ -15,7 +15,7 @@ outputs:
 params:
     homeInfoParams:
         Title: Hi there! I'm James.
-        Content: I am a software engineer and photographer living in beautiful Seattle, Washington, USA. Please make yourself comfortable and take a look around! Below, you can find my most recent posts.
+        Content: Please make yourself comfortable and take a look around! Below, you can find my most recent posts.
 
 menu:
   main:

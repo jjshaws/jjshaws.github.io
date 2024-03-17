@@ -4,7 +4,11 @@ title: "Bookshelf"
 
 ### Currently Reading 
 *Non-Fiction* \
-**The Power Broker** by Robert Caro
+**The Power Broker** by Robert Caro \
+**Deep Work** by Cal Newport
+
+*Fiction* \
+**The Three Body Problem** by Liu Cixin
 
 ### 2023
 *Non-Fiction* \
