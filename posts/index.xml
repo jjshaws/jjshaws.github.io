@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JamesShaw.info</title>
+    <link>https://jjshaws.github.io/posts/</link>
+    <description>Recent content on JamesShaw.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://jjshaws.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Printing Support Optimization</title>
+      <link>https://jjshaws.github.io/posts/manufacturing-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jjshaws.github.io/posts/manufacturing-optimization/</guid>
+      <description>I worked with NewPro3D, a Vancouver based 3D printing company to help them better understand the importance of support structure placement in their printing process. Starting from first principles, my team developed models for failure as a function of printing parameters such as print speed, layer thickness. Our model allowed the company to determine the optimal distance between support structures, ultimately decreasing the print time, print cost and time spent removing supports after curing.</description>
+    </item>
+    <item>
+      <title>Bone Scaffold Strength Testing</title>
+      <link>https://jjshaws.github.io/posts/bone-scaffolds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jjshaws.github.io/posts/bone-scaffolds/</guid>
+      <description>Bone disorder prevalence is increasing, largely due to an aging global population. Consequently, researchers are looking to novel methods for the treatment and replacement of atrophied bone. In this project, I tested the mechanical strength of a variety of 3D printed bone scaffold structures. They were designed such that so called &amp;ldquo;bone resorption&amp;rdquo;, or a prosthetic&amp;rsquo;s ability to be reintegrated into the body would occur. I compared comventional bone scaffold designs (truss and TPMS) with topologically optimized designs.</description>
+    </item>
+  </channel>
+</rss>
