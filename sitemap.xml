@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jjshaws.github.io/photos/abigcaterpillar/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jjshaws.github.io/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjshaws.github.io/photos/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photos/quinault/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jjshaws.github.io/photos/abigcaterpillar/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jjshaws.github.io/photos/fence/</loc>
